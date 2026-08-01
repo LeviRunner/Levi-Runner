@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/LeviRunner">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;DataOps+%E2%80%A2+Cloud+%E2%80%A2+DevOps+%E2%80%A2+Backend;Pipelines+de+dados%2C+automa%C3%A7%C3%A3o+e+infraestrutura" alt="DataOps, Cloud, DevOps e Backend" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=DataOps+%E2%80%A2+Cloud+%E2%80%A2+DevOps+%E2%80%A2+Backend;Pipelines+de+dados%2C+automa%C3%A7%C3%A3o+e+infraestrutura" alt="DataOps, Cloud, DevOps e Backend" />
   </a>
 </p>
 
