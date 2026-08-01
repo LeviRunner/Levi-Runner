@@ -23,41 +23,6 @@
 ◉ Interesse profundo em **Cultura DevOps**, Sistemas Distribuídos, Redes e escalabilidade de aplicações.
 ◉ Sempre estudando observabilidade, padrões de arquitetura e boas práticas de infraestrutura.
 
-<br>
-
-### ✦ Projetos em Destaque
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏆 [DevRank](https://mfp.tec.br/)
-
-> *Plataforma gamificada de ensino voltada para engenharia de software e aprendizado prático.*
-
-◉ Engine de avaliação automatizada que valida **código, comandos de terminal e queries SQL** em tempo real.
-◉ Arquitetura com **leaderboards**, progressão de XP e ecossistema de trilhas isoladas.
-
-`Backend` `SQL` `Automação` `Gamificação`
-
-</td>
-<td width="50%" valign="top">
-
-#### 📊 DataLens *(em desenvolvimento)*
-
-> *Sistema de análise configurável que gera o perfil automático de qualquer fonte de dados (CSV, Excel, SQL, API).*
-
-◉ Alta flexibilidade e reuso: plugar, mapear e analisar qualquer formato **sem alterar código**.
-◉ Validado em casos reais de dados financeiros (Ações B3 e EUA, criptomoedas, gestão financeira pessoal).
-
-`Python` `Pandas` `SQLAlchemy` `Streamlit` `Plotly`
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ### ✦ Tech Stack & Ferramentas
 
 **Backend & Dados**
@@ -89,19 +54,6 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
-
-<br>
-
-### ✦ Estudos em Andamento
-
-| Área | Foco atual |
-| --- | --- |
-| **DataOps** | Orquestração de pipelines, qualidade e versionamento de dados |
-| **Cloud** | Serviços gerenciados AWS/Azure e infraestrutura como código |
-| **DevOps** | CI/CD, containers e observabilidade (métricas, logs, tracing) |
-| **Fundamentos** | Sistemas distribuídos, redes e arquitetura de software |
-
-<br>
 
 ### ✦ GitHub
 
