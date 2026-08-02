@@ -58,11 +58,6 @@
 ### ✦ GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeviRunner&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de LeviRunner" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviRunner&layout=compact&hide_border=true&title_color=58A6FF&langs_count=8" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeviRunner&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Sequência de contribuições" />
 </p>
 
