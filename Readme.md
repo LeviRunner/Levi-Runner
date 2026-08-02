@@ -17,10 +17,15 @@
 ### ✦ Sobre mim
 
 ◉ **Estudante de Ciência da Computação** com foco prático em **DataOps** e Engenharia de Software.
+
 ◉ Apaixonado por infraestrutura de TI, engenharia de dados e resolução de problemas complexos.
+
 ◉ Desenvolvo e arquiteto soluções voltadas para **Backend**, **Cloud Computing** e automação de processos.
+
 ◉ Experiência acadêmica e prática em pipelines de dados, integração contínua (CI/CD) e bancos de dados.
+
 ◉ Interesse profundo em **Cultura DevOps**, Sistemas Distribuídos, Redes e escalabilidade de aplicações.
+
 ◉ Sempre estudando observabilidade, padrões de arquitetura e boas práticas de infraestrutura.
 
 ### ✦ Tech Stack & Ferramentas
