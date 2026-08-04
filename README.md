@@ -2,35 +2,36 @@
 
 <p align="center">
   <a href="https://github.com/LeviRunner">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=DataOps+%E2%80%A2+Cloud+%E2%80%A2+DevOps+%E2%80%A2+Backend;Pipelines+de+dados%2C+automa%C3%A7%C3%A3o+e+infraestrutura" alt="DataOps, Cloud, DevOps e Backend" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=DataOps+%E2%80%A2+Cloud+%E2%80%A2+DevOps+%E2%80%A2+Backend;Data+pipelines%2C+automation+and+infrastructure" alt="DataOps, Cloud, DevOps and Backend" />
   </a>
 </p>
 
 <p align="center">
+  <a href="./README.md"><img src="https://img.shields.io/badge/English-US-blue?style=flat-square" alt="English" /></a>
+  <a href="./README_pt.md"><img src="https://img.shields.io/badge/Portugu%C3%AAs-BR-green?style=flat-square" alt="Português" /></a>
+  <a href="./README_es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-ES-red?style=flat-square" alt="Español" /></a>
+</p>
+
+---
+
+### ✦ GitHub Stats
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/LeviRunner/LeviRunner/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/LeviRunner/LeviRunner/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+### ✦ Contact
+
+<p>
   <a href="mailto:xnynzn_equal.4@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/matheus-santos-744417421"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://mfp.tec.br/"><img src="https://img.shields.io/badge/DevRank-0B1220?style=for-the-badge&logo=vercel&logoColor=white" alt="DevRank" /></a>
 </p>
 
----
+### ✦ Tech Stack & Tools
 
-### ✦ Sobre mim
-
-◉ **Estudante de Ciência da Computação** com foco prático em **DataOps** e Engenharia de Software.
-
-◉ Apaixonado por infraestrutura de TI, engenharia de dados e resolução de problemas complexos.
-
-◉ Desenvolvo e arquiteto soluções voltadas para **Backend**, **Cloud Computing** e automação de processos.
-
-◉ Experiência acadêmica e prática em pipelines de dados, integração contínua (CI/CD) e bancos de dados.
-
-◉ Interesse profundo em **Cultura DevOps**, Sistemas Distribuídos, Redes e escalabilidade de aplicações.
-
-◉ Sempre estudando observabilidade, padrões de arquitetura e boas práticas de infraestrutura.
-
-### ✦ Tech Stack & Ferramentas
-
-**Linguagens**
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -41,7 +42,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-**Backend & Dados**
+**Backend & Data**
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -55,7 +56,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
-**Cloud & Infraestrutura**
+**Cloud & Infrastructure**
 
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
@@ -68,7 +69,7 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
-**DevOps & Automação**
+**DevOps & Automation**
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -77,22 +78,16 @@
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
 </p>
 
-**Observabilidade**
+**Observability**
 
 <p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
-### ✦ GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeviRunner&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Sequência de contribuições" />
-</p>
-
 ---
 
 <p align="center">
-  <i>Aberto a colaborações em projetos de dados, infraestrutura e backend.</i><br>
-  <a href="mailto:levi.runner01@gmail.com">levi.runner01@gmail.com</a>
+  <i>Open to collaborations on data, infrastructure and backend projects.</i><br>
+  <a href="mailto:xnynzn_equal.4@outlook.com">xnynzn_equal.4@outlook.com</a>
 </p>
