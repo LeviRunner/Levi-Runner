@@ -18,7 +18,7 @@ jobs:
       - name: Overview card
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
           user: LeviRunner
           filename: metrics/stats.svg
           template: classic
@@ -30,7 +30,7 @@ jobs:
       - name: Languages card
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
           user: LeviRunner
           filename: metrics/languages.svg
           template: classic
